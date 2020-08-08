@@ -115,3 +115,15 @@ You will also see any lint errors in the console.
 In case of my tips being unclear, check official React site [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+
+## Uwagi
+
+* Po zmianie adresów URL http i https z 
+"obb-api" na adres do innego api w heroku (np. "obb-projekt")
+nie działa możliwość dodawania nowych rekordów do bazy danych
+(jednostek).
+
+* Nie działa możliwość usuwania pomiarów kojca (pen measure).
